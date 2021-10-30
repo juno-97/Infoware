@@ -1,0 +1,7 @@
+{
+    "env": {
+        "PORT": 3000,
+        "DATABASE": "mongodb+srv://admin:Narasimha1@social.v4vw4.mongodb.net/Infoware?retryWrites=true&w=majority",
+        "JWT_SECRET": "secret"
+    }
+}
