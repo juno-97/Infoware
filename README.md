@@ -1,5 +1,11 @@
 # Infoware
 
+
+POSTMAN IMPORT IF INTERESTED
+imort this link using post man
+https://www.getpostman.com/collections/f6d46c6aa813eb2c23b8
+
+
 API DOCUMENTATION
 
 
